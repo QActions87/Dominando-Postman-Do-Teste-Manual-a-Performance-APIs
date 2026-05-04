@@ -42,15 +42,15 @@ Por fim, faremos um teste falso negativo, onde testaremos uma expectativa difere
  - [**Postman: Teste Manual de API Rest — III**](https://medium.com/@atom.freedom/postman-teste-manual-de-api-rest-iii-928702ecd6f1)
 
 **Veremos:**
- - Teste de Contrato.
- - O que é um Contrato.
- - Modelo do Schema esperado no Swagger.
- - Porque é importante para um QA conhecer o Teste de Contrato na validação do Schema.
- - Anatomia do Teste de Contrato (o que validamos?).
- - XML e XSD (O Contrato de Dados).
- - XML: Bem formado vs Válido.
- - Exemplo prático de XML bem formado e inválido.
- - Porque é importante fazer Testes de Contrato.
- - Como Validar Schema.
- - Bibliotecas para validação de Schema (tv4 e ajv).
- - Entederemos o Fluxo de um response.
+ - **Teste de Contrato**;
+ - O que é um **Contrato**;
+ - **Modelo do Schema** esperado no **Swagger**;
+ - Porque é importante para um QA conhecer o Teste de Contrato na validação do Schema;
+ - Anatomia do Teste de Contrato (o que validamos?);
+ - **XML e XSD** (O **Contrato de Dados**);
+ - XML: Bem formado vs Válido;
+ - Exemplo prático de XML bem formado e inválido;
+ - Porque é importante fazer Testes de Contrato;
+ - **Como Validar Schema**;
+ - **Bibliotecas para validação de Schema** (tv4 e ajv);
+ - Entederemos o **Fluxo de um response**.
