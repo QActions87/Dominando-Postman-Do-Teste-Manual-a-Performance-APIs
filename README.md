@@ -5,7 +5,7 @@
 ## 1ª Projeto - Postman: Teste Manual de API Rest
  - [**Postman: Teste Manual de API Rest — I**](https://medium.com/@atom.freedom/postman-teste-manual-de-api-rest-i-6deffb6da5e1)
 
-Veremos um cenário CRUD Manual no Postman, com os 4 principais métodos do protocolo HTTP neste projeto **Testes Manuais em API Rest com Postman**e dicas de boas práticas. Além de um primeiro contato com a documentação Swagger da **API que trabalharemos** (**FakeRESTApi**), nesta 1ª parte veremos:
+Veremos um **cenário CRUD Manual no Postman**, com **os 4 principais métodos do protocolo HTTP** neste projeto **Testes Manuais em API Rest com Postman**e **dicas de boas práticas**. Além de um primeiro contato com a **documentação Swagger ** da API que trabalharemos (**FakeRESTApi**), nesta 1ª parte veremos:
 
  - Formas de **passar parâmetros para a API**:
    - Parâmetro **Path**;
