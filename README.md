@@ -54,3 +54,20 @@ Por fim, faremos um teste falso negativo, onde testaremos uma expectativa difere
  - **Como Validar Schema**;
  - **Bibliotecas para validação de Schema** (tv4 e ajv);
  - Entederemos o **Fluxo de um response**.
+
+#
+ - [**Postman: Teste Manual de API Rest — IV**](https://medium.com/@atom.freedom/postman-teste-manual-de-api-rest-iv-dfe456fe9e07)
+
+**veremos:**
+
+ - Buscando ID: **Método GET**(Read).
+ - Mudando o teste de **contrato de Array para Objeto**.
+ - **Capturando o ID** de **forma dinâmica**.
+ - **Análise do teste**.
+ - Criando Dados na Base: **Método POST** (Create).
+ - **Validando a Criação do Dado** Manualmente.
+ - Atualizando Dados: **Método PUT** (Update).
+ -  Dicas de **Boas Práticas**.
+ - Usando **variáveis em escopo Global**.
+ - Uso de **Variável Global no payload do request body no método PUT**.
+ - **Método DELETE**.
